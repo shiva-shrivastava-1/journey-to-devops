@@ -39,4 +39,4 @@ I post progress updates, project links, and learning reflections on LinkedIn.
 
 ---
 
-Thanks for stopping by! If you're on a similar path, feel free to connect — I’d love to learn with and from others in the DevOps community.
+Thanks for stopping by! If you're on a similar path, feel free to connect - I’d love to learn with and from others in the DevOps community.

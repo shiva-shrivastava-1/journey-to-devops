@@ -2,7 +2,7 @@
 
 This folder contains hands-on assignments completed as part of **CS50’s Introduction to Programming with Python** offered by Harvard OpenCourseWare.
 
-The course is designed for beginners and focuses on building a strong foundation in Python programming with real-world, practical exercises — no prior experience required.
+The course is designed for beginners and focuses on building a strong foundation in Python programming with real-world, practical exercises - no prior experience required.
 
 ---
 
@@ -59,4 +59,4 @@ Offered by **Harvard OpenCourseWare**
 
 ---
 
-📌 This folder is part of my [Journey to DevOps](../README.md) repository — a public record of my technical learning, skill development, and project work.  
+📌 This folder is part of my [Journey to DevOps](../README.md) repository - a public record of my technical learning, skill development, and project work.  
