@@ -15,6 +15,7 @@ Each subfolder in this directory contains assignment(s) corresponding to a speci
   - Understanding user input
   - Performing arithmetic operations
   - Using variables and formatted output
+  - Creating user-defined functions
 
 > More modules will be added as I progress through the course.
 
